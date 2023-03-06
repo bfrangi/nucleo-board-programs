@@ -1,0 +1,10 @@
+14:14:02 **** Incremental Build of configuration Release for project Electronics ****
+make -j8 all 
+arm-none-eabi-size   Electronics.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4724	     20	   1700	   6444	   192c	Electronics.elf
+Finished building: default.size.stdout
+ 
+
+14:14:02 Build Finished. 0 errors, 0 warnings. (took 275ms)
+

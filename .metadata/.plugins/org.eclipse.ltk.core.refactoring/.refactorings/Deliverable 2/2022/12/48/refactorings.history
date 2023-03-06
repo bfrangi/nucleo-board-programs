@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Deliverable 2/Core/Src/retarget,c&apos; to &apos;retarget.c&apos;" description="Rename resource &apos;retarget,c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/retarget,c" name="retarget.c" stamp="1670065433443" updateReferences="true"/>
+</session>

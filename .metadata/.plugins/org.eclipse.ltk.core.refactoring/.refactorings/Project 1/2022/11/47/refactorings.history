@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Project 1/Electronics.ioc&apos; to &apos;Project 1.ioc&apos;" description="Rename resource &apos;Electronics.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Electronics.ioc" name="Project 1.ioc" stamp="1669476678365" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Project 1/Electronics Debug.launch&apos; to &apos;Project 1 Debug.launch&apos;" description="Rename resource &apos;Electronics Debug.launch&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Electronics Debug.launch" name="Project 1 Debug.launch" stamp="1669476689670" updateReferences="true"/>
+</session>
